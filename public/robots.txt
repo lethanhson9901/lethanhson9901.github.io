@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://lethanhson9901.github.io
+
+# Sitemaps
+Sitemap: https://lethanhson9901.github.io/sitemap.xml 
